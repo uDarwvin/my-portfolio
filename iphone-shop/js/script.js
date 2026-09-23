@@ -1,5 +1,5 @@
 const addBtns = document.querySelectorAll('[data-add-to-cart]');
-const cartItems = document.getElementById('cart-items');  // اصلاح نام
+const cartItems = document.getElementById('cart-items');
 const emptyCart = document.getElementById('empty-cart');
 const cartTotal = document.getElementById('cart-total');
 
